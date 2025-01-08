@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection{
+    color:rgb(208, 139, 27) ;
+}
+
+.heading::selection{
+    color:rgb(26, 222, 157);
+}
